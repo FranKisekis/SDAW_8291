@@ -31,3 +31,17 @@ utilizados durante la práctica:
 - git branch: Muestra un listado de las ramas en el repositorio local
 - git merge: Combina las ramas seleccionadas en una sola
 - git push: Manda los cambios del repositorio local al remoto
+
+## Información técnica añadida desde rama 2
+commit bc9900bdc71b87deb806dde733c4de66c7a9db38 (HEAD -> rama2_FranciscoGuerrero, rama1_FranciscoGuerr
+ero)
+Author: FranciscoGuerrero <3728291@alu.murciaeduca.es>
+Date:   Fri Nov 14 09:36:44 2025 +0100
+
+    commit rama1
+
+commit f4b340b767584b2e6b8c8b9ea43b92ee0b57881b (origin/master, origin/main, main)
+Author: FranciscoGuerrero <3728291@alu.murciaeduca.es>
+Date:   Tue Nov 11 14:13:31 2025 +0100
+
+    primer commit
