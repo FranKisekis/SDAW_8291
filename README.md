@@ -115,3 +115,23 @@ primer commit
 
    -Tras estar vinculado se realizaron 3 git push desde cada rama para subir los contenidos al repertorio remoto.
 
+=======================================================================================================================================================================
+
+## Información técnica añadida desde rama 3##
+
+$ git log --oneline --graph --all
+* 00a79ef (HEAD -> rama3_FranciscoGuerrero, origen/main, origen/HEAD, rama4_Fra
+nciscoGuerrero, main) prueba3
+* d51181a (origin/main, origin/HEAD) Actualizado README con documentación paso
+2
+*   71f0d04 (rama2_FranciscoGuerrero, rama1_FranciscoGuerrero) Merge pull reque
+st #2 from FranKisekis/rama2_FranciscoGuerrero
+|\
+| * 8b8f942 (origin/rama2_FranciscoGuerrero) commit rama2
+* | e6af182 Merge pull request #1 from FranKisekis/rama1_FranciscoGuerrero
+|\|
+| * bc9900b (origin/rama1_FranciscoGuerrero) commit rama1
+|/
+* f4b340b primer commit
+
+**En la tarea anterior me he hecho una idea de cómo funciona mas o menos Git, pero me resulta complicado saber por donde va cada rama o cómo funciona el tema de combinarlas, actualizarlas o corregirlas porque me resulta muy abstracto**
