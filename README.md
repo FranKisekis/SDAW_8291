@@ -135,3 +135,26 @@ st #2 from FranKisekis/rama2_FranciscoGuerrero
 * f4b340b primer commit
 
 **En la tarea anterior me he hecho una idea de cómo funciona mas o menos Git, pero me resulta complicado saber por donde va cada rama o cómo funciona el tema de combinarlas, actualizarlas o corregirlas porque me resulta muy abstracto**
+
+
+## CONCLUSIÖN ##
+
+   - Tener varios remotos resulta útil para mantener la información en varios lugares diferentes por si ocurriese cualquier cosa, de manera que es accesible desde otro dispositivo compatible y con conexión.
+   
+   - La ventaja principal del control de versiones de este tipo de trabajos consiste en que es posible detectar cuándo ha ido mal alguna parte de lo que se ha hecho y permite volver a ese punto y seguir trabajando desde ahí.
+   Además permite trabajar en equipo y juntarlo con los compañeros sabiendo los cambios ocurridos.
+
+   - Los principales comandos que se han consultado para esta tarea han sido:
+
+         - git remore -v   ==> Para ver los repositorios remotos conectados.
+         - git remote add  ==> Para crear un repositorio remoto sin borrar el anterior. 
+         - git remote rm   ==> para borrar un repertorio remoto, ya que se había ocasionado un lio entre las ramas nada más comenzar y se ha decidido que volver a comenzar era lo aconsejable.
+
+         Además de estos se han usado otros ya conocidos como:
+
+         - git add .
+         - git commit -m
+         - git push
+         - git  pull
+         - git fetch --all
+         - git merge
