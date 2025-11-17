@@ -105,6 +105,17 @@ commit f4b340b767584b2e6b8c8b9ea43b92ee0b57881b (origin/master, origin/main, mai
 
 primer commit
 
+##Información tecnica añadida desde rama4, Conectar local con Gitlab##
+
+   - Para conectar los repositorios primero se creó en casa una nueva carpeta con el mismo nombre que el repositorio de GitHub "SDAW_8291" y se clonó el repositorio con: -git clone +dirección del repositorio.
+
+   - A continuación se realizaron pulls de todas las ramas.
+
+   - Después tras crear el usuario y repositorio remoto en Gitlab se vinculó el repositorio local con el nuevo remoto con: -git remote add origen (nuevo nombre para no sobrescribir el anterior) https://gitlab.com/franciscojose.guerrero/sdaw_8291.git.
+
+   -Tras estar vinculado se realizaron 3 git push desde cada rama para subir los contenidos al repertorio remoto.
+
+
 =======================================================================================================================================================================
 
 ## Información técnica añadida desde rama 3##
